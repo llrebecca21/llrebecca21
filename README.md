@@ -2,7 +2,9 @@
 
 My name is Dr. Rebecca Lee. I got my PhD in statistics at Texas A&M University and also have two Bachelor's degrees from University of Oregon. I have an eclectic background with my first degree in political science and a minor in theatre arts, while my second degree is in pure mathematics (which I completed in a single academic year!). 
 
-This is my GitHub where you will find some projects I worked on as part of a class both required or because I went above and beyond the requirements for a project (ClusterPack, Python_Projects, rjmcmc). Part of my dissertation research can be found here as well (HBEST). I also have my collaborative work with Dr. Alexander Coulter (fastfrechet) and my repository I created to help students (and myself out while instructing) for Texas A&M's STAT 312 course. 
+This is my GitHub where you will find some projects I have worked on in the past. Some repositories are dissertation related (HBEST) or are coursework related (ClusterPack, Python_Projects, rjmcmc). I also have my collaborative work with Dr. Alexander Coulter (fastfrechet) and my repository I created to help students (and myself out while instructing) for Texas A&M's STAT 312 course. 
+
+I mainly code and publish work in R but have experience in Python and C++. In my HBEST repository you will find work I have done with creating a Dockerfile and GitHub pages too.
 
 <!--
 **llrebecca21/llrebecca21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
