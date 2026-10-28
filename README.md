@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome!
+
+My name is Dr. Rebecca Lee. I got my PhD in statistics at Texas A&M University and also have two Bachelor's degrees from University of Oregon. I have an eclectic background with my first degree in political science and a minor in theatre arts, while my second degree is in pure mathematics (which I completed in a single academic year!). 
+
+This is my GitHub where you will find some projects I worked on as part of a class or for my dissertation research.
 
 <!--
 **llrebecca21/llrebecca21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
